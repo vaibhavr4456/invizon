@@ -1,0 +1,1 @@
+module.exports = { content: ['./index.html','./src/**/*.{js,jsx,ts,tsx}'], theme: { extend: { colors: { invizon: {50:'#F5F3FF',100:'#EEE9FF',200:'#E6DEFF',300:'#DCCFFF',400:'#D0BFFF',500:'#A78BFA',600:'#7C3AED',700:'#6D28D9'} } } }, plugins: [] }
